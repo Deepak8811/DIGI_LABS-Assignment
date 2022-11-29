@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DIGI_LABS-Assignment/static/css/main.43ef7ea7.css",
+    "main.js": "/DIGI_LABS-Assignment/static/js/main.a5aa3faa.js",
+    "index.html": "/DIGI_LABS-Assignment/index.html",
+    "main.43ef7ea7.css.map": "/DIGI_LABS-Assignment/static/css/main.43ef7ea7.css.map",
+    "main.a5aa3faa.js.map": "/DIGI_LABS-Assignment/static/js/main.a5aa3faa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ef7ea7.css",
+    "static/js/main.a5aa3faa.js"
+  ]
+}
